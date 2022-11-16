@@ -1,4 +1,4 @@
-import { sliderImages } from '/home/grimhoney/the_odin_project/shopping-cart/project/src/images/slider-images/slider-images.js';
+import { sliderImages } from '/home/grimhoney/the_odin_project/shopping-cart/src/images/slider-images/slider-images.js';
 import React, {useEffect} from 'react';
 import { Link } from 'react-router-dom';
 
